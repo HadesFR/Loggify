@@ -1,0 +1,2 @@
+# Loggify
+Loggify - Beautiful logger
